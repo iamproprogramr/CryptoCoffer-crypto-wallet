@@ -28,8 +28,8 @@ CryptoCoffer is a simple Bitcoin wallet application developed using Python's Tki
 1. **Clone the Repository**
    
    ```sh
-   git clone https://github.com/your-username/CryptoCoffer.git
-   cd CryptoCoffer
+   git clone https://github.com/iamproprogramr/CryptoCoffer-crypto-wallet.git
+   cd CryptoCoffer-crypto-wallet
    ```
 
 2. **Install Required Libraries**
